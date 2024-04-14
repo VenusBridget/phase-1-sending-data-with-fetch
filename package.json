@@ -21,7 +21,9 @@
     "chai-spies": "^1.0.0",
     "mocha-jsdom": "^2.0.0",
     "nock": "^13.3.0",
+    "node": "^18.20.2",
     "node-fetch": "^2.6.1",
+    "nodejs": "0.0.0",
     "sinon": "^7.3.1"
   }
 }
